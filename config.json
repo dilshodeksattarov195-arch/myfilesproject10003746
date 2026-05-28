@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricserocess",
+        "uuid": 15234982,
+        "checksum": "kz9mq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
